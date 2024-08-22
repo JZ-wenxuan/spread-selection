@@ -2,12 +2,13 @@
   "name": "spread-selection",
   "displayName": "Spread selection",
   "description": "Spread the selected text for every line in the clipboard",
+  "icon": "icon.png",
   "publisher": "JZWenxuan",
   "repository": {
     "type": "git",
     "url": "https://github.com/JZ-wenxuan/spread-selection.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
